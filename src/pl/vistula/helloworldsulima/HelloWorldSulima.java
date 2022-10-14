@@ -3,6 +3,7 @@ package pl.vistula.helloworldsulima;
 public class HelloWorldSulima {
     public static void main(String[] args) {
         System.out.println("Hello Vistula Sulima");
-        System.out.println("Hello Vistula Sulima");
+        System.out.println("Hello Vistula Sulima2");
+        System.out.println("Hello Vistula Sulima3");
     }
 }
